@@ -1,35 +1,40 @@
-function khan(){
-    let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
+// function khan(){
+//     let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
     
-    arr.push("F" ,"G")   // add "f","g"
+//     arr.push("F" ,"G")   // add "f","g"
 
-    console.log(arr)
-}
-khan()
-function abhi(){
-    let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
+//     console.log(arr)
+// }
+// khan()
+// function abhi(){
+//     let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
     
-    arr.pop()   //E hatega
-    arr.pop()   //d hatega 
+//     arr.pop()   //E hatega
+//     arr.pop()   //d hatega 
 
-    console.log(arr)
-}
-abhi()
+//     console.log(arr)
+// }
+// abhi()
 
-function nit(){
-    let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
+// function nit(){
+//     let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
     
-    arr.shift()
+//     arr.shift()
 
-    console.log(arr)
-}
-nit()
+//     console.log(arr)
+// }
+// nit()
 
-function murshidkhan(){
-    let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
+// function murshidkhan(){
+//     let arr = ["A" ,"B" ,"C" ,"D" ,"E"];
     
-    arr.unshift("B")
+//     arr.unshift("B")
 
-    console.log(arr)
+//     console.log(arr)
+// }
+// murshidkhan()
+
+function sid(){
+    let Text= document.getElementById('text')
+    
 }
-murshidkhan()
